@@ -1,0 +1,10 @@
+# 動画・個人データ・実行時ファイルを含めない
+ffmpeg.exe
+node.exe
+作業データ/
+変更前バックアップ/
+起動URL.txt
+プロセスID.txt
+*.mkv
+*.mp4
+*.log

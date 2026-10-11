@@ -1,0 +1,6 @@
+# Shift_JISとUTF-8 BOMをバイト単位で保持する
+*.html -text
+*.cmd -text
+*.ps1 -text
+*.cjs text eol=lf
+*.md text eol=lf
